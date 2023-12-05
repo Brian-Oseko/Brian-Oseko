@@ -1,4 +1,4 @@
-- 👋 Hi there, Brian Oseko here
+- 👋 Hi there, Brian here
 - 👀 I’m a data enthusiast  
 - 🌱 I’m currently learning Data Science
 
